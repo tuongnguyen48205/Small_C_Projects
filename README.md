@@ -7,3 +7,6 @@ Tax calculator
 
 Generalised converter
 
+change calculator
+
+array frequency sorter
